@@ -3,7 +3,7 @@ dist
 .path_progress
 *.rbc
 <<<<<<< HEAD
-.redcar
+.redcar/*
 =======
-.redcar
+.redcar/*
 >>>>>>> rm-work
